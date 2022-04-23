@@ -1,1 +1,1 @@
-# Recursion
+Recursion学習用リポジトリ
